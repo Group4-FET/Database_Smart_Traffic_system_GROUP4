@@ -1,0 +1,1 @@
+venv/ logs/ database/backups/ *.pyc pycache/ *.dump *.log
