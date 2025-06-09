@@ -1,0 +1,101 @@
+route_id,route_name,start_location,end_location,waypoints,distance_km,estimated_time_minutes,created_at,is_active
+RT001,Buea - Molyko Ring Road,Molyko Roundabout,University of Buea,Buea Junction,5.2,25,2023-05-19 09:52:07,True
+RT002,Douala - Akwa Downtown Loop,Akwa Street,Deido Market,Rond Point Deido,8.5,40,2024-08-28 18:40:28,True
+RT003,Yaounde - Central to North,Nlongkak Junction,Melen Roundabout,Warda Junction,7.0,35,2023-05-31 10:05:00,True
+RT004,Buea - Mile 17 to UB,Mile 17 Motor Park,University Gate,Great Soppo,6.8,30,2023-02-20 03:06:36,True
+RT005,Douala - Bonaberi Industrial Route,Bonaberi Bridge Exit,Bassa Industrial Zone,Logbaba,12.0,55,2024-01-24 19:21:03,True
+RT006,Yaounde - Omnisport Access,Omnisport Stadium,Essos,Mfandena,6.0,28,2024-03-22 16:52:31,True
+RT007,Buea - Bokwoango Commuter,Bokwoango,Bakweri Town,Clerks Quarters,4.0,20,2023-03-25 03:16:30,True
+RT008,Douala - Cité des Palmiers Link,Cité des Palmiers,Japoma Stadium Road,PK10,15.0,65,2023-04-22 04:08:12,True
+RT009,Yaounde - South Eastern Connector,Kondengui,Nkoabang,Biteng,10.5,50,2023-04-17 15:53:53,True
+RT010,Buea - Wokoko Circular,Wokoko,Bomaka,Bonduma,7.5,35,2023-10-30 15:43:34,True
+RT011,Douala - Bepanda Main Artery,Bepanda Omni sport,Ndokoti Roundabout,Carrefour Kotto,9.0,40,2025-04-25 22:06:16,False
+RT012,Yaounde - Mendong Residential Flow,Mendong,Obili,Nkolbisson,8.0,38,2023-03-17 01:43:04,True
+RT013,Buea - Ekona Route,Ekona,Likomba,Tole,11.0,45,2024-11-11 13:48:29,False
+RT014,Douala - Yassa Gateway,Yassa,Dibamba Bridge,Grand Mall Area,14.0,60,2023-02-13 17:24:38,True
+RT015,Yaounde - Ekounou to Etoudi,Ekounou,Etoudi,Etoa,7.2,33,2024-01-07 07:32:26,True
+RT016,Buea - Regional Hospital Access,Regional Hospital,Molyko Market,Checkpoint,3.5,18,2024-06-17 08:56:04,True
+RT017,Douala - Port to Central Market,Port Entrance,Marché Central,Marché Sandaga,5.8,27,2024-12-03 00:13:52,True
+RT018,Yaounde - Nkolbikok Link,Nkolbikok,Nkolndongo,Mokolo Market,9.2,42,2024-07-18 22:39:58,True
+RT019,Buea - Upper Bokwoango Traverse,Upper Bokwoango,Bwitingi,Fako Road,5.0,24,2024-11-03 16:56:46,True
+RT020,Douala - Congo Market Corridor,Marché Congo,Total Bonamoussadi,Village,8.7,39,2025-03-30 10:02:05,True
+RT021,Yaounde - Nkol-Eton Express,Nkol-Eton,Ekoudou,Elig-Essono,6.5,30,2024-02-12 10:15:18,True
+RT022,Buea - Lycée to UB,Lycée Molyko,UB Sport Complex,Fako Residence,4.3,22,2025-01-21 05:30:15,True
+RT023,Douala - Mboppi Commercial,Marché Mboppi,Parc des Princes,Ancien Route Bonaberi,10.0,48,2023-09-26 23:50:34,True
+RT024,Yaounde - Capital City Tour,Avenue Kennedy,Avenue Winston Churchill,Lac Municipal,7.8,36,2024-10-16 12:40:01,True
+RT025,Buea - Town to CCAST,Buea Town Health Centre,CCAST,Malingo Street,6.0,28,2025-01-08 09:07:31,True
+RT026,Douala - PK8 Logistics,PK8,Koumassi,Ndongo,9.5,43,2025-03-18 00:50:04,True
+RT027,Yaounde - Vogt Central,Carrefour Vogt,Centre Ville,Gendarmerie,5.5,25,2023-03-19 09:22:19,True
+RT028,Buea - Dibanda Outskirts,Dibanda,Bolole,Road 2,4.7,21,2025-05-07 12:45:32,False
+RT029,Douala - Tradex to Akwa,Tradex Bonaberi,Akwa Clinic,Deido Market,7.0,33,2023-08-13 23:37:57,True
+RT030,Yaounde - Nkondom Bypass,Nkondom,Mini Prix,Cité Verte,8.2,37,2025-05-12 19:43:46,True
+RT031,Buea - Molyko - Great Soppo,Molyko Roundabout,Great Soppo,Buea Junction,4.8,20,2024-11-25 18:42:34,True
+RT032,Douala - Akwa - Bonaberi,Akwa Street,Bonaberi Bridge Exit,Rond Point Deido,11.0,50,2024-01-25 00:00:06,True
+RT033,Yaounde - Nlongkak - Tsinga,Nlongkak Junction,Tsinga,Warda Junction,9.0,40,2023-03-07 13:54:10,True
+RT034,Buea - UB to Mile 17,University Gate,Mile 17 Motor Park,Bokwoango,7.0,30,2024-09-25 20:30:18,True
+RT035,Douala - Deido - Bassa,Deido Market,Bassa Industrial Zone,Ndokoti Roundabout,7.5,35,2024-08-07 15:38:49,True
+RT036,Yaounde - Melen - Essos,Melen Roundabout,Essos,Mfandena,5.5,25,2024-01-09 23:16:23,True
+RT037,Buea - Clerks Quarters - Bomaka,Clerks Quarters,Bomaka,Bakweri Town,3.8,18,2024-07-19 02:29:05,True
+RT038,Douala - Grand Mall - Cité Palmiers,Grand Mall Area,Cité des Palmiers,Japoma Stadium Road,13.0,58,2023-12-14 20:17:22,True
+RT039,Yaounde - Kondengui - Odza,Kondengui,Odza,Nkoabang,9.8,45,2025-01-17 00:58:11,True
+RT040,Buea - Bonduma - Wokoko,Bonduma,Wokoko,Ekona,8.0,37,2025-01-22 17:56:27,True
+RT041,Douala - Ndokoti - Bepanda,Ndokoti Roundabout,Bepanda Omni sport,Logbaba,6.2,29,2023-12-22 23:48:27,True
+RT042,Yaounde - Omnisport - Mendong,Omnisport Stadium,Mendong,Obili,7.0,32,2024-11-15 12:05:25,True
+RT043,Buea - Likomba - Tole,Likomba,Tole,Molyko Market,6.0,28,2023-04-02 18:14:53,True
+RT044,Douala - Yassa - PK10,Yassa,PK10,Dibamba Bridge,11.5,52,2025-04-04 15:38:34,True
+RT045,Yaounde - Biteng - Ekounou,Biteng,Ekounou,Emombo,7.0,34,2023-09-24 19:06:42,True
+RT046,Buea - Regional Hospital - Small Soppo,Regional Hospital,Small Soppo,Checkpoint,2.5,15,2024-03-02 01:54:15,True
+RT047,Douala - Marché Sandaga - Port,Marché Sandaga,Port Entrance,Marché Central,4.0,20,2025-02-19 23:53:31,True
+RT048,Yaounde - Nkolbisson - Nkondom,Nkolbisson,Nkondom,Mini Prix,8.5,39,2025-03-26 16:45:01,True
+RT049,Buea - Mutengene - Ngeme,Mutengene,Ngeme,Bwitingi,6.5,30,2023-10-10 06:54:55,True
+RT050,Douala - Bonaloka - Marché Congo,Bonaloka,Marché Congo,Village,5.0,23,2024-09-15 00:34:18,True
+RT051,Yaounde - Etoa - Nkol-Eton,Etoa,Nkol-Eton,Ekoudou,6.0,27,2023-02-04 04:03:16,True
+RT052,Buea - Bolole - Dibanda,Bolole,Dibanda,Road 2,3.0,17,2025-04-06 23:01:21,True
+RT053,Douala - Tradex Bonaberi - Akwa Street,Tradex Bonaberi,Akwa Street,Rond Point Deido,7.8,36,2023-10-14 11:04:27,True
+RT054,Yaounde - Nkolndongo - Cité Verte,Nkolndongo,Cité Verte,Elig-Essono,7.0,33,2024-11-11 12:34:00,True
+RT055,Buea - Fako Road - Great Soppo,Fako Road,Great Soppo,Presidential Palace Road,4.5,20,2025-03-06 04:18:56,True
+RT056,Douala - Carrefour Ndokoti - Marché Mboppi,Carrefour Ndokoti,Marché Mboppi,Parc des Princes,9.0,42,2023-07-30 17:22:38,True
+RT057,Yaounde - Avenue Kennedy - Etoudi,Avenue Kennedy,Etoudi,Avenue Winston Churchill,5.0,25,2023-02-08 15:49:49,True
+RT058,Buea - Checkpoint - Molyko,Checkpoint,Molyko Roundabout,University Gate,3.0,15,2023-02-26 05:11:39,True
+RT059,Douala - Port Entrance - Bonaberi,Port Entrance,Ancien Route Bonaberi,Bonaberi Bridge Exit,6.5,30,2024-01-27 23:34:15,True
+RT060,Yaounde - Lac Municipal - Nlongkak,Lac Municipal,Nlongkak Junction,Carrefour Vogt,4.0,20,2025-01-02 07:50:48,True
+RT061,Buea - Health Centre to Molyko,Buea Town Health Centre,Molyko Roundabout,Buea Junction,4.0,20,2023-11-08 19:01:45,True
+RT062,Douala - PK8 to Deido,PK8,Deido Market,Rond Point Deido,6.0,28,2023-08-09 06:48:21,True
+RT063,Yaounde - Lac Municipal - Warda Junction,Lac Municipal,Warda Junction,Nlongkak Junction,3.5,18,2024-01-16 14:48:07,True
+RT064,Buea - CCAST - Mile 17,CCAST,Mile 17 Motor Park,Great Soppo,5.5,25,2025-04-14 06:14:59,True
+RT065,Douala - Koumassi - Bassa,Koumassi,Bassa Industrial Zone,Ndongo,7.0,32,2023-04-06 01:06:49,True
+RT066,Yaounde - Centre Ville - Melen,Centre Ville,Melen Roundabout,Mfandena,4.5,22,2024-02-11 13:48:36,False
+RT067,Buea - UB Sport Complex - Clerks Quarters,UB Sport Complex,Clerks Quarters,Bakweri Town,3.0,15,2024-03-20 16:54:17,True
+RT068,Douala - Ancien Route Bonaberi - Grand Mall,Ancien Route Bonaberi,Grand Mall Area,Cité des Palmiers,10.0,45,2025-04-08 03:42:24,True
+RT069,Yaounde - Carrefour Vogt - Kondengui,Carrefour Vogt,Kondengui,Nkoabang,7.0,35,2023-08-20 09:41:11,True
+RT070,Buea - Fako Residence - Bonduma,Fako Residence,Bonduma,Wokoko,4.0,20,2023-08-09 15:25:13,True
+RT071,Douala - Akwa Clinic - Ndokoti,Akwa Clinic,Ndokoti Roundabout,Bepanda Omni sport,6.5,30,2023-03-31 08:25:39,True
+RT072,Yaounde - Cité Verte - Omnisport,Cité Verte,Omnisport Stadium,Mendong,6.0,28,2023-08-03 09:58:15,True
+RT073,Buea - Bova - Likomba,Bova,Likomba,Tole,5.0,23,2024-09-10 12:39:50,True
+RT074,Douala - Marché Central - Yassa,Marché Central,Yassa,PK10,9.0,40,2023-10-08 01:47:51,True
+RT075,Yaounde - Gendarmerie - Biteng,Gendarmerie,Biteng,Ekounou,7.5,35,2024-12-04 16:16:32,True
+RT076,Buea - Road 2 - Regional Hospital,Road 2,Regional Hospital,Small Soppo,2.8,16,2024-12-16 20:56:07,True
+RT077,Douala - Wouri River Bank - Marché Sandaga,Wouri River Bank,Marché Sandaga,Port Entrance,3.5,18,2023-03-30 12:05:56,True
+RT078,Yaounde - Nkolbikok - Nkolbisson,Nkolbikok,Nkolbisson,Nkondom,6.0,28,2023-09-23 07:14:06,True
+RT079,Buea - Upper Bokwoango - Mutengene,Upper Bokwoango,Mutengene,Ngeme,6.0,27,2024-05-03 08:01:49,True
+RT080,Douala - Marché Congo - Bonaloka,Marché Congo,Bonaloka,Village,4.0,20,2024-01-04 05:43:02,True
+RT081,Yaounde - Nkol-Eton - Etoa,Nkol-Eton,Etoa,Ekoudou,5.0,24,2023-11-18 01:53:40,False
+RT082,Buea - Bwitingi - Bolole,Bwitingi,Bolole,Dibanda,3.0,17,2024-10-12 18:24:34,True
+RT083,Douala - Total Bonamoussadi - Tradex Bonaberi,Total Bonamoussadi,Tradex Bonaberi,Akwa Clinic,5.5,26,2023-11-01 23:12:53,False
+RT084,Yaounde - Ekoudou - Nkolndongo,Ekoudou,Nkolndongo,Cité Verte,5.0,25,2024-05-20 11:06:57,True
+RT085,Buea - Lycée Molyko - Fako Road,Lycée Molyko,Fako Road,UB Sport Complex,2.5,14,2024-08-14 10:58:51,True
+RT086,Douala - Marché Mboppi - Carrefour Ndokoti,Marché Mboppi,Carrefour Ndokoti,Port Entrance,8.0,38,2023-10-02 22:45:36,True
+RT087,Yaounde - Avenue Kennedy - Lac Municipal,Avenue Kennedy,Lac Municipal,Carrefour Vogt,3.0,16,2024-06-04 11:23:58,True
+RT088,Buea - Presidential Palace Road - Checkpoint,Presidential Palace Road,Checkpoint,Buea Town Health Centre,2.0,12,2024-01-09 06:52:41,True
+RT089,Douala - Parc des Princes - PK8,Parc des Princes,PK8,Koumassi,7.5,35,2023-01-25 16:25:25,False
+RT090,Yaounde - Avenue Winston Churchill - Centre Ville,Avenue Winston Churchill,Centre Ville,Lac Municipal,2.8,15,2024-09-11 21:56:39,True
+RT091,Buea - Health Centre to Molyko,Buea Town Health Centre,Molyko Roundabout,Buea Junction,4.0,20,2024-11-08 11:03:27,True
+RT092,Douala - PK8 to Deido,PK8,Deido Market,Rond Point Deido,6.0,28,2025-01-18 10:13:49,True
+RT093,Yaounde - Lac Municipal to Warda,Lac Municipal,Warda Junction,Nlongkak Junction,3.5,18,2024-11-20 15:25:13,True
+RT094,Buea - CCAST to Mile 17,CCAST,Mile 17 Motor Park,Great Soppo,5.5,25,2023-02-14 13:26:59,True
+RT095,Douala - Koumassi to Bassa,Koumassi,Bassa Industrial Zone,Ndongo,7.0,32,2024-01-17 19:32:10,True
+RT096,Yaounde - Centre Ville to Melen,Centre Ville,Melen Roundabout,Mfandena,4.5,22,2023-08-16 05:01:15,True
+RT097,Buea - UB Sports to Clerks Quarters,UB Sport Complex,Clerks Quarters,Bakweri Town,3.0,15,2023-08-25 02:03:38,True
+RT098,Douala - Ancien Route Bonaberi to Grand Mall,Ancien Route Bonaberi,Grand Mall Area,Cité des Palmiers,10.0,45,2025-03-26 00:29:40,True
+RT099,Yaounde - Carrefour Vogt to Kondengui,Carrefour Vogt,Kondengui,Nkoabang,7.0,35,2025-03-07 21:35:17,True
+RT100,Buea - Fako Residence to Bonduma,Fako Residence,Bonduma,Wokoko,4.0,20,2024-01-19 04:21:56,True

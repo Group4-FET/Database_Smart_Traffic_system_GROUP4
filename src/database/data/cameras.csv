@@ -1,0 +1,101 @@
+camera_id,location_name,ip_address,latitude,longitude,camera_type,is_active,installed_at,last_maintenance,status
+CAM001,Buea - Molyko Roundabout,192.168.10.1,4.156,9.29,PTZ,True,2022-11-09 19:10:01,2023-08-09 19:10:01,Operational
+CAM002,Douala - Akwa Street,192.168.10.2,4.049,9.704,Fixed,True,2020-12-14 12:32:03,2021-11-13 12:32:03,Operational
+CAM003,Yaounde - Nlongkak Junction,192.168.10.3,3.874,11.517,PTZ,False,2022-02-06 09:26:39,2022-09-21 09:26:39,Maintenance
+CAM004,Buea - Mile 17 Motor Park,192.168.10.4,4.148,9.282,Fixed,True,2024-10-01 08:38:47,2025-07-02 08:38:47,Operational
+CAM005,Douala - Bonaberi Bridge Exit,192.168.10.5,4.062,9.658,PTZ,True,2020-10-18 12:45:58,2021-05-13 12:45:58,Operational
+CAM006,Yaounde - Melen Roundabout,192.168.10.6,3.87,11.49,Fixed,True,2023-04-30 16:49:29,2023-12-03 16:49:29,Operational
+CAM007,Buea - University Gate,192.168.10.7,4.168,9.289,PTZ,True,2023-06-24 17:04:19,2024-01-19 17:04:19,Operational
+CAM008,Douala - Deido Market,192.168.10.8,4.07,9.72,Fixed,True,2023-01-16 10:01:33,2023-07-01 10:01:33,Maintenance
+CAM009,Yaounde - Warda Junction,192.168.10.9,3.86,11.505,PTZ,True,2021-07-12 04:04:44,2022-03-14 04:04:44,Operational
+CAM010,Buea - Great Soppo,192.168.10.10,4.159,9.28,Fixed,True,2023-02-25 22:27:58,2023-07-23 22:27:58,Operational
+CAM011,Douala - Ndokoti Roundabout,192.168.10.11,4.03,9.715,PTZ,True,2023-01-10 20:49:49,2024-01-08 20:49:49,Operational
+CAM012,Yaounde - Omnisport Stadium,192.168.10.12,3.88,11.495,Fixed,True,2024-03-22 10:54:53,2024-09-25 10:54:53,Operational
+CAM013,Buea - Bokwoango,192.168.10.13,4.163,9.295,PTZ,True,2023-01-01 12:55:05,2023-01-11 12:55:05,Maintenance
+CAM014,Douala - Grand Mall Area,192.168.10.14,4.02,9.68,Fixed,True,2022-02-24 16:58:27,2023-01-09 16:58:27,Operational
+CAM015,Yaounde - Tsinga,192.168.10.15,3.85,11.53,PTZ,True,2020-10-19 11:37:02,2021-04-19 11:37:02,Operational
+CAM016,Buea - Clerks Quarters,192.168.10.16,4.155,9.285,Fixed,True,2022-09-07 08:59:02,2023-02-28 08:59:02,Operational
+CAM017,Douala - Rond Point Deido,192.168.10.17,4.065,9.71,PTZ,False,2020-01-01 07:29:55,2020-05-21 07:29:55,Operational
+CAM018,Yaounde - Essos,192.168.10.18,3.865,11.54,Fixed,True,2024-05-15 12:00:53,2024-12-04 12:00:53,Maintenance
+CAM019,Buea - Small Soppo,192.168.10.19,4.162,9.278,PTZ,True,2021-06-12 00:02:53,2021-09-03 00:02:53,Operational
+CAM020,Douala - Bassa Industrial Zone,192.168.10.20,4.015,9.74,Fixed,True,2023-02-18 08:07:05,2023-04-27 08:07:05,Operational
+CAM021,Yaounde - Mfandena,192.168.10.21,3.885,11.525,PTZ,False,2024-07-30 20:23:41,2025-02-12 20:23:41,Operational
+CAM022,Buea - Bomaka,192.168.10.22,4.17,9.285,Fixed,True,2022-09-28 04:39:13,2022-10-20 04:39:13,Operational
+CAM023,Douala - Ndogpassi,192.168.10.23,4.045,9.735,PTZ,True,2024-03-21 22:58:55,2024-11-25 22:58:55,Maintenance
+CAM024,Yaounde - Kondengui,192.168.10.24,3.84,11.55,Fixed,True,2023-05-06 05:42:03,2023-05-14 05:42:03,Operational
+CAM025,Buea - Bakweri Town,192.168.10.25,4.15,9.283,PTZ,True,2022-02-27 04:14:57,2022-05-16 04:14:57,Operational
+CAM026,Douala - Cité des Palmiers,192.168.10.26,4.055,9.75,Fixed,True,2024-09-20 03:05:46,2025-04-10 03:05:46,Operational
+CAM027,Yaounde - Odza,192.168.10.27,3.82,11.58,PTZ,True,2020-06-10 23:20:11,2020-08-06 23:20:11,Maintenance
+CAM028,Buea - Bonduma,192.168.10.28,4.172,9.287,Fixed,True,2024-12-01 08:52:52,2025-08-03 08:52:52,Operational
+CAM029,Douala - Japoma Stadium Road,192.168.10.29,3.95,9.78,PTZ,True,2021-06-22 04:21:50,2022-01-18 04:21:50,Operational
+CAM030,Yaounde - Nkoabang,192.168.10.30,3.8,11.6,Fixed,True,2022-03-10 02:57:58,2022-05-02 02:57:58,Operational
+CAM031,Buea - Wokoko,192.168.10.31,4.166,9.275,PTZ,True,2023-08-19 03:58:59,2023-12-30 03:58:59,Operational
+CAM032,Douala - Bepanda Omni sport,192.168.10.32,4.035,9.695,Fixed,True,2023-09-18 13:33:13,2024-05-02 13:33:13,Operational
+CAM033,Yaounde - Mendong,192.168.10.33,3.83,11.56,PTZ,False,2022-01-18 11:56:44,2022-03-15 11:56:44,Maintenance
+CAM034,Buea - Ekona,192.168.10.34,4.21,9.26,Fixed,True,2023-02-26 23:50:08,2023-10-08 23:50:08,Operational
+CAM035,Douala - Logbaba,192.168.10.35,4.0,9.76,PTZ,False,2023-09-26 20:20:18,2024-04-18 20:20:18,Operational
+CAM036,Yaounde - Obili,192.168.10.36,3.89,11.51,Fixed,False,2020-08-21 05:42:08,2020-11-09 05:42:08,Operational
+CAM037,Buea - Likomba,192.168.10.37,4.18,9.3,PTZ,True,2021-10-05 12:19:18,2022-02-16 12:19:18,Operational
+CAM038,Douala - Yassa,192.168.10.38,3.98,9.79,Fixed,True,2021-01-07 18:26:41,2021-03-09 18:26:41,Maintenance
+CAM039,Yaounde - Biteng,192.168.10.39,3.81,11.59,PTZ,True,2024-12-24 02:54:19,2025-05-03 02:54:19,Operational
+CAM040,Buea - Bolifamba,192.168.10.40,4.175,9.28,Fixed,True,2022-12-21 12:28:15,2022-12-28 12:28:15,Operational
+CAM041,Douala - Dibamba Bridge,192.168.10.41,3.9,9.85,PTZ,True,2024-04-16 00:41:38,2024-11-05 00:41:38,Operational
+CAM042,Yaounde - Ekounou,192.168.10.42,3.878,11.535,Fixed,False,2021-05-11 15:48:24,2022-05-07 15:48:24,Operational
+CAM043,Buea - Molyko Market,192.168.10.43,4.157,9.291,PTZ,True,2021-06-06 05:36:29,2021-12-16 05:36:29,Maintenance
+CAM044,Douala - Carrefour Kotto,192.168.10.44,4.025,9.7,Fixed,True,2021-05-08 15:06:00,2021-09-11 15:06:00,Operational
+CAM045,Yaounde - Emombo,192.168.10.45,3.845,11.545,PTZ,True,2023-12-20 08:30:08,2024-08-08 08:30:08,Operational
+CAM046,Buea - Regional Hospital,192.168.10.46,4.154,9.286,Fixed,True,2022-10-27 20:15:00,2023-10-26 20:15:00,Operational
+CAM047,Douala - Ndongo,192.168.10.47,4.06,9.73,PTZ,True,2024-01-09 06:51:56,2024-08-06 06:51:56,Maintenance
+CAM048,Yaounde - Etoudi,192.168.10.48,3.895,11.515,Fixed,True,2023-02-17 09:26:59,2023-08-15 09:26:59,Operational
+CAM049,Buea - Mutengene,192.168.10.49,4.09,9.27,PTZ,True,2023-12-24 06:54:21,2024-08-12 06:54:21,Operational
+CAM050,Douala - PK10,192.168.10.50,4.005,9.755,Fixed,False,2020-01-24 17:01:37,2020-07-21 17:01:37,Operational
+CAM051,Yaounde - Etoa,192.168.10.51,3.87,11.5,PTZ,True,2022-06-09 02:48:29,2022-11-08 02:48:29,Maintenance
+CAM052,Buea - Ngeme,192.168.10.52,4.178,9.298,Fixed,True,2022-01-19 17:37:02,2022-10-02 17:37:02,Operational
+CAM053,Douala - Marché Sandaga,192.168.10.53,4.04,9.708,PTZ,True,2024-10-05 05:13:28,2024-10-23 05:13:28,Operational
+CAM054,Yaounde - Nkolbisson,192.168.10.54,3.825,11.57,Fixed,True,2021-07-21 06:45:15,2022-06-26 06:45:15,Operational
+CAM055,Buea - Tole,192.168.10.55,4.19,9.295,PTZ,True,2024-10-30 13:04:32,2025-02-08 13:04:32,Maintenance
+CAM056,Douala - Bonaloka,192.168.10.56,4.05,9.69,Fixed,True,2021-08-06 22:14:03,2021-12-21 22:14:03,Operational
+CAM057,Yaounde - Mokolo Market,192.168.10.57,3.855,11.52,PTZ,True,2021-07-25 07:26:24,2021-11-05 07:26:24,Operational
+CAM058,Buea - Dibanda,192.168.10.58,4.145,9.28,Fixed,True,2022-07-11 11:39:19,2022-09-09 11:39:19,Operational
+CAM059,Douala - Village,192.168.10.59,4.075,9.718,PTZ,False,2020-04-23 09:50:41,2021-01-31 09:50:41,Maintenance
+CAM060,Yaounde - Mini Prix,192.168.10.60,3.868,11.51,Fixed,True,2021-07-24 15:22:09,2022-06-19 15:22:09,Operational
+CAM061,Buea - Bolole,192.168.10.61,4.164,9.276,PTZ,True,2022-11-28 01:10:04,2023-11-11 01:10:04,Operational
+CAM062,Douala - Tradex Bonaberi,192.168.10.62,4.06,9.66,Fixed,True,2023-05-01 10:23:48,2023-10-07 10:23:48,Operational
+CAM063,Yaounde - Nkolndongo,192.168.10.63,3.872,11.54,PTZ,True,2024-10-21 16:46:23,2024-12-09 16:46:23,Maintenance
+CAM064,Buea - Fako Road,192.168.10.64,4.153,9.292,Fixed,True,2024-10-06 17:35:06,2025-07-07 17:35:06,Operational
+CAM065,Douala - Carrefour Ndokoti,192.168.10.65,4.031,9.716,PTZ,True,2020-11-19 05:35:42,2021-09-16 05:35:42,Operational
+CAM066,Yaounde - Elig-Essono,192.168.10.66,3.848,11.532,Fixed,True,2022-07-23 23:29:34,2022-12-26 23:29:34,Operational
+CAM067,Buea - Checkpoint,192.168.10.67,4.1585,9.2895,PTZ,True,2020-12-28 18:16:12,2021-03-25 18:16:12,Maintenance
+CAM068,Douala - Port Entrance,192.168.10.68,4.05,9.665,Fixed,True,2021-04-17 08:48:43,2021-04-27 08:48:43,Operational
+CAM069,Yaounde - Nkondom,192.168.10.69,3.828,11.575,PTZ,True,2020-03-24 01:52:36,2020-05-08 01:52:36,Operational
+CAM070,Buea - Malingo Street,192.168.10.70,4.161,9.2885,Fixed,False,2020-07-21 13:24:55,2021-06-28 13:24:55,Operational
+CAM071,Douala - Akwa Clinic,192.168.10.71,4.05,9.702,PTZ,True,2023-04-12 12:08:56,2023-06-23 12:08:56,Maintenance
+CAM072,Yaounde - Cité Verte,192.168.10.72,3.888,11.508,Fixed,True,2021-12-08 23:45:05,2021-12-26 23:45:05,Operational
+CAM073,Buea - Bova,192.168.10.73,4.174,9.29,PTZ,True,2023-11-23 10:00:52,2024-10-10 10:00:52,Operational
+CAM074,Douala - Marché Central,192.168.10.74,4.047,9.706,Fixed,True,2020-05-04 19:17:05,2021-03-16 19:17:05,Operational
+CAM075,Yaounde - Gendarmerie,192.168.10.75,3.862,11.512,PTZ,True,2023-10-17 19:14:48,2024-08-20 19:14:48,Maintenance
+CAM076,Buea - Road 2,192.168.10.76,4.152,9.284,Fixed,True,2021-09-25 06:58:10,2021-10-06 06:58:10,Operational
+CAM077,Douala - Wouri River Bank,192.168.10.77,4.07,9.68,PTZ,False,2021-11-17 14:40:48,2022-05-17 14:40:48,Operational
+CAM078,Yaounde - Nkolbikok,192.168.10.78,3.835,11.555,Fixed,True,2023-06-30 19:01:20,2024-06-25 19:01:20,Operational
+CAM079,Buea - Upper Bokwoango,192.168.10.79,4.165,9.297,PTZ,True,2022-03-14 18:05:11,2022-05-18 18:05:11,Maintenance
+CAM080,Douala - Marché Congo,192.168.10.80,4.048,9.709,Fixed,True,2024-04-05 07:57:49,2024-05-10 07:57:49,Operational
+CAM081,Yaounde - Nkol-Eton,192.168.10.81,3.875,11.522,PTZ,True,2022-02-14 03:23:00,2022-09-07 03:23:00,Operational
+CAM082,Buea - Bwitingi,192.168.10.82,4.176,9.292,Fixed,True,2022-11-03 10:27:41,2023-03-29 10:27:41,Operational
+CAM083,Douala - Total Bonamoussadi,192.168.10.83,4.068,9.745,PTZ,True,2022-02-04 01:46:37,2023-01-08 01:46:37,Maintenance
+CAM084,Yaounde - Ekoudou,192.168.10.84,3.86,11.5,Fixed,True,2023-09-26 17:07:37,2023-12-09 17:07:37,Operational
+CAM085,Buea - Lycée Molyko,192.168.10.85,4.1575,9.2905,PTZ,True,2022-03-18 19:49:22,2022-04-19 19:49:22,Operational
+CAM086,Douala - Marché Mboppi,192.168.10.86,4.038,9.712,Fixed,True,2024-05-27 08:49:46,2024-10-27 08:49:46,Operational
+CAM087,Yaounde - Avenue Kennedy,192.168.10.87,3.863,11.515,PTZ,True,2023-02-25 11:31:16,2023-08-23 11:31:16,Maintenance
+CAM088,Buea - Presidential Palace Road,192.168.10.88,4.16,9.286,Fixed,True,2022-12-26 02:37:00,2023-07-29 02:37:00,Operational
+CAM089,Douala - Parc des Princes,192.168.10.89,4.042,9.695,PTZ,True,2024-07-23 13:30:37,2025-05-11 13:30:37,Operational
+CAM090,Yaounde - Avenue Winston Churchill,192.168.10.90,3.858,11.508,Fixed,True,2023-04-24 18:36:12,2023-08-21 18:36:12,Operational
+CAM091,Buea - Buea Town Health Centre,192.168.10.91,4.1505,9.2815,PTZ,False,2022-07-07 17:24:07,2022-08-22 17:24:07,Maintenance
+CAM092,Douala - PK8,192.168.10.92,4.01,9.745,Fixed,True,2020-05-20 02:20:21,2021-04-19 02:20:21,Operational
+CAM093,Yaounde - Lac Municipal,192.168.10.93,3.867,11.505,PTZ,False,2024-06-17 20:20:44,2025-03-15 20:20:44,Operational
+CAM094,Buea - CCAST,192.168.10.94,4.1705,9.2845,Fixed,True,2022-05-17 02:40:19,2023-01-21 02:40:19,Operational
+CAM095,Douala - Koumassi,192.168.10.95,4.045,9.725,PTZ,True,2022-06-01 06:01:46,2023-05-19 06:01:46,Maintenance
+CAM096,Yaounde - Centre Ville,192.168.10.96,3.865,11.52,Fixed,True,2023-09-30 22:56:50,2024-01-01 22:56:50,Operational
+CAM097,Buea - UB Sport Complex,192.168.10.97,4.167,9.291,PTZ,True,2022-06-29 19:30:36,2022-10-21 19:30:36,Operational
+CAM098,Douala - Ancien Route Bonaberi,192.168.10.98,4.072,9.655,Fixed,True,2020-02-26 09:29:46,2020-06-02 09:29:46,Operational
+CAM099,Yaounde - Carrefour Vogt,192.168.10.99,3.869,11.518,PTZ,True,2024-12-28 19:35:57,2025-03-18 19:35:57,Maintenance
+CAM100,Buea - Fako Residence,192.168.10.100,4.1545,9.2875,Fixed,True,2020-08-23 20:58:54,2020-11-15 20:58:54,Operational

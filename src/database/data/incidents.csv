@@ -1,0 +1,51 @@
+incident_id,reporter_id,incident_type,location_name,latitude,longitude,description,severity,reported_at,resolved_at,status,assigned_officer
+INC001,COM001,Accident,Buea - Molyko Roundabout,4.156,9.29,Two vehicles collided at the roundabout,High,2025-06-06 07:15:00,2025-06-06 08:30:00,Resolved,MGR001
+INC002,COM003,Road Blockage,Douala - Akwa Street,4.049,9.704,Fallen tree blocking one lane,Medium,2025-06-06 07:20:00,2025-06-06 09:00:00,Resolved,MGR002
+INC003,COM005,Vehicle Breakdown,Yaounde - Nlongkak Junction,3.874,11.517,Bus broken down in middle of road,Medium,2025-06-06 07:25:00,2025-06-06 08:45:00,Resolved,MGR003
+INC004,COM007,Traffic Light Failure,Buea - Mile 17 Motor Park,4.148,9.282,Traffic lights not working,High,2025-06-06 07:30:00,2025-06-06 09:15:00,Resolved,MGR004
+INC005,COM009,Pedestrian Incident,Douala - Bonaberi Bridge Exit,4.062,9.658,Pedestrian hit by motorcycle,Critical,2025-06-06 07:35:00,2025-06-06 10:00:00,Resolved,MGR005
+INC006,COM011,Flooding,Yaounde - Melen Roundabout,3.87,11.49,Heavy rain causing flooding,High,2025-06-06 07:40:00,2025-06-06 11:30:00,Resolved,MGR006
+INC007,COM013,Protest,Buea - University Gate,4.168,9.289,Student protest blocking road,Medium,2025-06-06 07:45:00,2025-06-06 09:45:00,Resolved,MGR007
+INC008,COM015,Accident,Douala - Deido Junction,4.05,9.71,Motorcycle collision with car,Medium,2025-06-06 07:50:00,2025-06-06 09:50:00,Resolved,MGR008
+INC009,USR001,Accident,Molyko Roundabout,4.1592,9.2365,Car collision at Molyko Roundabout,High,2025-06-06 07:30:00,,Open,MGR001
+INC010,USR002,Road Blockage,Mile 17 Junction,4.1337,9.2893,Debris blocking Mile 17 Junction,Medium,2025-06-06 08:15:00,2025-06-06 09:45:00,Resolved,MGR002
+INC011,USR003,Vehicle Breakdown,Bonaberi Bridge,4.0678,9.6723,Bus broken down on Bonaberi Bridge,High,2025-06-06 07:45:00,,In Progress,MGR003
+INC012,USR004,Traffic Light Failure,Nlongkak Junction,3.8732,11.5021,Traffic lights out at Nlongkak,High,2025-06-06 08:00:00,,Open,MGR004
+INC013,USR005,Pedestrian Incident,Akwa Street,4.0512,9.7015,Pedestrian hit near Akwa Street,Critical,2025-06-06 07:50:00,,In Progress,MGR005
+INC014,USR006,Flooding,Melen Roundabout,3.8654,11.5167,Flooding reported at Melen Roundabout,High,2025-06-06 08:30:00,,Open,MGR006
+INC015,USR007,Protest,University Gate,4.1543,9.2421,Student protest causing delays,Medium,2025-06-06 07:20:00,2025-06-06 10:00:00,Resolved,MGR007
+INC016,USR008,Road Hazard,Small Soppo,4.1423,9.2654,Pothole reported on Small Soppo,Low,2025-06-06 08:45:00,,Open,MGR008
+INC017,USR009,Accident,Rond Point Deido,4.0567,9.7123,Motorcycle accident at Deido,Medium,2025-06-06 09:00:00,,In Progress,MGR009
+INC018,USR010,Vehicle Breakdown,Tsinga Road,3.8821,11.4987,Truck stalled on Tsinga Road,High,2025-06-06 07:40:00,,Open,MGR010
+INC019,USR011,Road Blockage,Bokwoango Road,4.1489,9.2512,Construction debris on Bokwoango,Medium,2025-06-06 08:20:00,2025-06-06 11:00:00,Resolved,MGR011
+INC020,USR012,Traffic Light Failure,Great Soppo,4.1376,9.2734,Lights malfunctioning at Great Soppo,High,2025-06-06 07:55:00,,In Progress,MGR012
+INC021,USR013,Flooding,Malingo Street,4.0523,9.6945,Flooding due to heavy rain,High,2025-06-06 08:10:00,,Open,MGR013
+INC022,USR014,Accident,Omnisport Stadium,3.8954,11.5376,Car crash near stadium,High,2025-06-06 08:40:00,,In Progress,MGR014
+INC023,USR015,Pedestrian Incident,Japoma Stadium,4.0356,9.7342,Pedestrian incident near Japoma,Critical,2025-06-06 07:35:00,,Open,MGR015
+INC024,USR016,Road Hazard,Mile 17 Junction,4.1337,9.2893,Oil spill on road,Medium,2025-06-06 08:25:00,2025-06-06 10:30:00,Resolved,MGR016
+INC025,USR017,Protest,University Road,4.1543,9.2421,Protest blocking University Road,High,2025-06-06 07:15:00,,In Progress,MGR017
+INC026,USR018,Vehicle Breakdown,Bonaberi Bridge,4.0678,9.6723,Van broken down on bridge,Medium,2025-06-06 08:50:00,,Open,MGR018
+INC027,USR019,Accident,Molyko Roundabout,4.1592,9.2365,Minor collision at roundabout,Low,2025-06-06 09:10:00,2025-06-06 09:50:00,Resolved,MGR019
+INC028,USR020,Road Blockage,Akwa Street,4.0512,9.7015,Fallen tree blocking lane,Medium,2025-06-06 07:25:00,,In Progress,MGR020
+INC029,USR001,Traffic Light Failure,Nlongkak Junction,3.8732,11.5021,Traffic light outage,High,2025-06-06 08:05:00,,Open,MGR001
+INC030,USR002,Flooding,Melen Roundabout,3.8654,11.5167,Heavy flooding reported,High,2025-06-06 08:35:00,,In Progress,MGR002
+INC031,USR003,Accident,Rond Point Deido,4.0567,9.7123,Car accident at Deido,High,2025-06-06 07:45:00,,Open,MGR003
+INC032,USR004,Vehicle Breakdown,Tsinga Road,3.8821,11.4987,Bus stalled on Tsinga,Medium,2025-06-06 08:15:00,2025-06-06 10:00:00,Resolved,MGR004
+INC033,USR005,Road Hazard,Small Soppo,4.1423,9.2654,Large pothole reported,Low,2025-06-06 09:20:00,,Open,MGR005
+INC034,USR006,Protest,University Gate,4.1543,9.2421,Demonstration at gate,High,2025-06-06 07:30:00,,In Progress,MGR006
+INC035,USR007,Flooding,Malingo Street,4.0523,9.6945,Flooding on Malingo,Medium,2025-06-06 08:40:00,,Open,MGR007
+INC036,USR008,Accident,Bonaberi Bridge,4.0678,9.6723,Truck collision on bridge,High,2025-06-06 07:55:00,,In Progress,MGR008
+INC037,USR009,Road Blockage,Bokwoango Road,4.1489,9.2512,Debris on Bokwoango,Medium,2025-06-06 08:25:00,2025-06-06 11:15:00,Resolved,MGR009
+INC038,USR010,Traffic Light Failure,Great Soppo,4.1376,9.2734,Lights out at Great Soppo,High,2025-06-06 07:40:00,,Open,MGR010
+INC039,USR011,Pedestrian Incident,Omnisport Stadium,3.8954,11.5376,Pedestrian hit near stadium,Critical,2025-06-06 08:10:00,,In Progress,MGR011
+INC040,USR012,Road Hazard,Mile 17 Junction,4.1337,9.2893,Spilled fuel on road,Medium,2025-06-06 09:00:00,,Open,MGR012
+INC041,USR013,Accident,Molyko Roundabout,4.1592,9.2365,Car crash at roundabout,High,2025-06-06 07:50:00,,In Progress,MGR013
+INC042,USR014,Vehicle Breakdown,Akwa Street,4.0512,9.7015,Van stalled on Akwa,Medium,2025-06-06 08:30:00,2025-06-06 10:45:00,Resolved,MGR014
+INC043,USR015,Flooding,Melen Roundabout,3.8654,11.5167,Flooding reported,High,2025-06-06 07:25:00,,Open,MGR015
+INC044,USR016,Protest,University Road,4.1543,9.2421,Protest causing delays,High,2025-06-06 08:05:00,,In Progress,MGR016
+INC045,USR017,Road Blockage,Rond Point Deido,4.0567,9.7123,Tree blocking lane,Medium,2025-06-06 08:50:00,,Open,MGR017
+INC046,USR018,Accident,Bonaberi Bridge,4.0678,9.6723,Minor collision on bridge,Low,2025-06-06 09:15:00,2025-06-06 10:00:00,Resolved,MGR018
+INC047,USR019,Traffic Light Failure,Nlongkak Junction,3.8732,11.5021,Traffic light failure,High,2025-06-06 07:35:00,,In Progress,MGR019
+INC048,USR020,Road Hazard,Small Soppo,4.1423,9.2654,Pothole on Small Soppo,Low,2025-06-06 08:20:00,,Open,MGR020
+INC049,USR001,Vehicle Breakdown,Tsinga Road,3.8821,11.4987,Bus broken down on Tsinga,Medium,2025-06-06 08:45:00,,In Progress,MGR001
+INC050,USR002,Accident,Molyko Roundabout,4.1592,9.2365,Car accident at roundabout,High,2025-06-06 09:30:00,,Open,MGR002

@@ -1,0 +1,151 @@
+alert_id,alert_type,title,message,severity,target_audience,created_at,expires_at,is_active,created_by_id
+ALT001,Traffic,Accident on Molyko Roundabout,Two vehicles collided at Molyko Roundabout causing delays,High,All,2025-06-06 07:20:00,2025-06-06 12:00:00,False,MGR001
+ALT002,Weather,Heavy Rain Expected,"Heavy rainfall predicted in Buea area, potential flooding",Medium,Commuters,2025-06-06 06:30:00,2025-06-06 18:00:00,False,MGR002
+ALT003,Roadwork,Road Construction on Akwa Street,Lane closures expected on Akwa Street for construction,Low,Drivers,2025-06-06 06:45:00,2025-06-06 17:00:00,False,MGR003
+ALT004,Event,Student Protest at University Gate,Expect traffic delays due to student protest,High,All,2025-06-06 07:50:00,2025-06-06 10:30:00,False,MGR004
+ALT005,Maintenance,Camera Maintenance Scheduled,CAM013 will undergo maintenance tomorrow,Low,Managers,2025-06-05 16:00:00,2025-06-06 16:00:00,False,MGR005
+ALT006,Traffic,Fallen Tree on Akwa Street,"Tree blocking one lane, crews en route",Medium,All,2025-06-06 07:25:00,2025-06-06 09:15:00,False,MGR006
+ALT007,System,System Update Tonight,Traffic monitoring system will be offline 2am-4am,Low,Operators,2025-06-06 12:00:00,2025-06-07 04:00:00,True,MGR007
+ALT008,Weather,Fog Advisory,Dense fog expected in Yaounde area this morning,Medium,Drivers,2025-06-06 05:30:00,2025-06-06 10:00:00,False,MGR001
+ALT009,Traffic,Broken Down Bus on Nlongkak,Large bus blocking traffic at Nlongkak Junction,High,All,2025-06-06 07:30:00,2025-06-06 09:00:00,False,MGR002
+ALT010,Safety,Pedestrian Incident Reported,"Pedestrian hit near Bonaberi Bridge, avoid area",Critical,All,2025-06-06 07:40:00,2025-06-06 10:30:00,False,MGR003
+ALT011,Traffic,Traffic Light Failure,Mile 17 traffic lights not functioning,High,All,2025-06-06 07:35:00,2025-06-06 09:30:00,False,MGR004
+ALT012,Weather,Flooding Reported,Heavy rain causing flooding at Melen Roundabout,High,All,2025-06-06 07:45:00,2025-06-06 12:00:00,False,MGR005
+ALT013,Event,Sports Event at Omnisport,Increased traffic expected near stadium,Medium,Commuters,2025-06-06 08:00:00,2025-06-06 22:00:00,True,MGR006
+ALT014,Maintenance,Camera Back Online,CAM008 now operational after maintenance,Low,Managers,2025-06-06 09:15:00,2025-06-06 12:00:00,False,MGR007
+ALT015,Traffic,Congestion on Bonaberi Bridge,Heavy traffic on bridge due to accident,High,All,2025-06-06 08:10:00,2025-06-06 10:00:00,False,MGR001
+ALT016,Roadwork,Paving Work on Small Soppo,Expect delays on Small Soppo road,Medium,Drivers,2025-06-06 06:00:00,2025-06-06 15:00:00,True,MGR002
+ALT017,System,Database Maintenance,System performance may be affected,Low,Operators,2025-06-06 13:00:00,2025-06-06 15:00:00,True,MGR003
+ALT018,Weather,Clear Weather Expected,Good visibility and dry roads today,Low,All,2025-06-06 06:00:00,2025-06-06 18:00:00,False,MGR004
+ALT019,Traffic,Rush Hour Congestion,Expected heavy traffic during evening commute,Medium,Commuters,2025-06-06 15:00:00,2025-06-06 19:00:00,True,MGR005
+ALT020,Safety,New Speed Cameras Installed,Speed cameras active on Buea-Mile 17 road,Low,Drivers,2025-06-05 12:00:00,2025-06-12 12:00:00,True,MGR006
+ALT021,Traffic,Vehicle Fire on Deido Junction,Avoid area due to vehicle fire,Critical,All,2025-06-06 08:30:00,2025-06-06 10:30:00,False,MGR007
+ALT022,Event,Market Day in Deido,Increased pedestrian traffic expected,Low,Drivers,2025-06-06 07:00:00,2025-06-06 18:00:00,True,MGR001
+ALT023,Maintenance,Scheduled Camera Maintenance,CAM023 will be offline tomorrow for maintenance,Low,Managers,2025-06-06 10:00:00,2025-06-07 10:00:00,True,MGR002
+ALT024,Traffic,Overturned Truck on Tsinga Road,"Major delays expected, seek alternate route",High,All,2025-06-06 09:15:00,2025-06-06 12:00:00,False,MGR003
+ALT025,Weather,Heat Advisory,"Extreme heat expected, stay hydrated",Medium,All,2025-06-06 09:00:00,2025-06-06 17:00:00,True,MGR004
+ALT026,System,Mobile App Update Available,New features and bug fixes,Low,Commuters,2025-06-06 08:00:00,2025-06-13 08:00:00,True,MGR005
+ALT027,Traffic,Road Closure for Repairs,Bokwoango Road closed for emergency repairs,High,All,2025-06-06 07:15:00,2025-06-06 16:00:00,True,MGR006
+ALT028,Safety,Pedestrian Crossing Upgrade,New crossing lights being installed,Low,Commuters,2025-06-06 06:30:00,2025-06-08 18:00:00,True,MGR007
+ALT029,Event,Presidential Visit,Road closures expected in city center,High,All,2025-06-06 10:00:00,2025-06-06 15:00:00,True,MGR001
+ALT030,Traffic,Fuel Spill on Malingo Street,"Cleanup underway, avoid area",Medium,All,2025-06-06 08:45:00,2025-06-06 11:30:00,False,MGR002
+ALT031,Weather,Thunderstorm Warning,Severe thunderstorms expected this afternoon,High,All,2025-06-06 11:00:00,2025-06-06 17:00:00,True,MGR003
+ALT032,Maintenance,System Backup in Progress,Temporary slowdowns possible,Low,Operators,2025-06-06 02:00:00,2025-06-06 04:00:00,False,MGR004
+ALT033,Traffic,New Traffic Pattern,Changed traffic flow at Rond Point Deido,Medium,Drivers,2025-06-05 12:00:00,2025-06-12 12:00:00,True,MGR005
+ALT034,Event,Cultural Festival,Increased traffic near Omnisport Stadium,Medium,All,2025-06-06 09:00:00,2025-06-06 22:00:00,True,MGR006
+ALT035,Safety,Pothole Reported,Large pothole on Great Soppo road,Low,Commuters,2025-06-06 07:30:00,2025-06-09 18:00:00,True,MGR007
+ALT036,Traffic,Disabled Vehicle on Bridge,Vehicle blocking right lane on Bonaberi Bridge,Medium,All,2025-06-06 09:30:00,2025-06-06 10:30:00,False,MGR001
+ALT037,System,New Features Released,Check out new traffic prediction features,Low,Commuters,2025-06-06 08:00:00,2025-06-13 08:00:00,True,MGR002
+ALT038,Weather,Wind Advisory,Strong winds may affect high-profile vehicles,Medium,Drivers,2025-06-06 10:00:00,2025-06-06 18:00:00,True,MGR003
+ALT039,Maintenance,Server Upgrade Complete,System performance improved,Low,Operators,2025-06-06 06:00:00,2025-06-06 12:00:00,False,MGR004
+ALT040,Traffic,Parade Route,Road closures for Independence Day parade,High,All,2025-06-06 07:00:00,2025-06-06 14:00:00,True,MGR005
+ALT041,Safety,School Zone Active,Reduced speed limits in effect,Low,Drivers,2025-06-06 07:00:00,2025-06-06 16:00:00,True,MGR006
+ALT042,Event,Marathon This Weekend,Road closures planned for Sunday,Medium,All,2025-06-06 08:00:00,2025-06-09 18:00:00,True,MGR007
+ALT043,Traffic,New Roundabout Open,Molyko-Mile 17 roundabout now operational,Low,All,2025-06-06 09:00:00,2025-06-13 09:00:00,True,MGR001
+ALT044,Weather,Haze Advisory,Reduced visibility due to harmattan,Medium,Drivers,2025-06-06 06:00:00,2025-06-06 12:00:00,False,MGR002
+ALT045,System,Scheduled Maintenance,App will be unavailable tonight,Low,Commuters,2025-06-06 12:00:00,2025-06-07 02:00:00,True,MGR003
+ALT046,Traffic,Construction Complete,All lanes open on Akwa Street,Low,All,2025-06-06 15:00:00,2025-06-07 15:00:00,False,MGR004
+ALT047,Safety,New Traffic Signs Installed,Updated signage on University Road,Low,Drivers,2025-06-06 08:00:00,2025-06-13 08:00:00,True,MGR005
+ALT048,Event,Concert Traffic,Expect delays near Japoma Stadium,Medium,All,2025-06-06 17:00:00,2025-06-06 23:00:00,True,MGR006
+ALT049,Maintenance,Camera Calibration,CAM047 undergoing calibration,Low,Managers,2025-06-06 10:30:00,2025-06-06 12:30:00,False,MGR007
+ALT050,Traffic,Normal Traffic Flow Resumed,All incidents cleared on major routes,Low,All,2025-06-06 11:00:00,2025-06-06 13:00:00,False,MGR001
+ALERT_A7D38D8D97,Maintenance,Alert Title 0,This is a random alert message for alert 0.,Low,Officials,2025-05-09 16:02:00.617756,2025-07-03 16:02:00.618299,False,MGR002
+ALERT_5D3A8D18A2,Emergency,Alert Title 1,This is a random alert message for alert 1.,Low,Public,2024-11-12 16:02:00.617908,2025-06-25 16:02:00.618304,False,MGR003
+ALERT_E070D461B5,Maintenance,Alert Title 2,This is a random alert message for alert 2.,Low,Officials,2025-01-22 16:02:00.617923,2025-06-14 16:02:00.618309,False,MGR004
+ALERT_F16AE93A08,Maintenance,Alert Title 3,This is a random alert message for alert 3.,Medium,Drivers,2024-08-02 16:02:00.617930,2025-06-25 16:02:00.618312,False,MGR005
+ALERT_826E8CB29E,Weather,Alert Title 4,This is a random alert message for alert 4.,Medium,Public,2024-07-03 16:02:00.617935,2025-07-03 16:02:00.618316,False,MGR006
+ALERT_625C68495C,Traffic,Alert Title 5,This is a random alert message for alert 5.,Low,Drivers,2025-05-20 16:02:00.617940,2025-06-27 16:02:00.618321,False,MGR007
+ALERT_946153D990,Event,Alert Title 6,This is a random alert message for alert 6.,High,Officials,2025-05-10 16:02:00.617944,2025-07-05 16:02:00.618325,False,MGR001
+ALERT_4C1178E197,Traffic,Alert Title 7,This is a random alert message for alert 7.,Low,Drivers,2024-06-20 16:02:00.617947,2025-07-02 16:02:00.618329,True,MGR002
+ALERT_C0E6752C40,Weather,Alert Title 8,This is a random alert message for alert 8.,Low,Officials,2025-06-06 16:02:00.617951,2025-06-13 16:02:00.618332,True,MGR003
+ALERT_AD7B33D0C2,Traffic,Alert Title 9,This is a random alert message for alert 9.,High,Commuters,2024-11-04 16:02:00.617955,2025-06-15 16:02:00.618335,True,MGR004
+ALERT_71BAEA9074,Maintenance,Alert Title 10,This is a random alert message for alert 10.,Medium,Public,2024-09-19 16:02:00.617959,2025-06-13 16:02:00.618338,False,MGR005
+ALERT_C614DCF949,Weather,Alert Title 11,This is a random alert message for alert 11.,Low,Officials,2024-09-07 16:02:00.617963,2025-06-08 16:02:00.618342,False,MGR006
+ALERT_E7E7E9DD07,Weather,Alert Title 12,This is a random alert message for alert 12.,Medium,Drivers,2024-11-11 16:02:00.617967,2025-06-20 16:02:00.618345,False,MGR007
+ALERT_3ED8380A64,Maintenance,Alert Title 13,This is a random alert message for alert 13.,Medium,Commuters,2024-07-10 16:02:00.617971,2025-07-05 16:02:00.618349,False,MGR001
+ALERT_F5E5892D58,Event,Alert Title 14,This is a random alert message for alert 14.,High,Public,2025-01-15 16:02:00.617975,2025-06-27 16:02:00.618353,False,MGR002
+ALERT_1F947E1288,Event,Alert Title 15,This is a random alert message for alert 15.,High,Officials,2024-10-26 16:02:00.617979,2025-06-28 16:02:00.618356,False,MGR003
+ALERT_679642D174,Maintenance,Alert Title 16,This is a random alert message for alert 16.,Low,Drivers,2025-02-19 16:02:00.617983,2025-06-22 16:02:00.618360,True,MGR004
+ALERT_DCE562C325,Event,Alert Title 17,This is a random alert message for alert 17.,Medium,Drivers,2024-12-07 16:02:00.617987,2025-06-27 16:02:00.618364,True,MGR005
+ALERT_B09F59A79A,Maintenance,Alert Title 18,This is a random alert message for alert 18.,Low,Public,2025-04-30 16:02:00.617991,2025-06-22 16:02:00.618367,False,MGR006
+ALERT_6F0B49518C,Emergency,Alert Title 19,This is a random alert message for alert 19.,High,Officials,2024-07-02 16:02:00.617994,2025-06-10 16:02:00.618370,False,MGR007
+ALERT_41B995976C,Emergency,Alert Title 20,This is a random alert message for alert 20.,Low,Officials,2025-05-19 16:02:00.617997,2025-06-16 16:02:00.618374,False,MGR001
+ALERT_F752EDEDAD,Emergency,Alert Title 21,This is a random alert message for alert 21.,Medium,Public,2024-08-08 16:02:00.618000,2025-06-20 16:02:00.618377,False,MGR002
+ALERT_D3325BED50,Traffic,Alert Title 22,This is a random alert message for alert 22.,Medium,Commuters,2025-04-16 16:02:00.618003,2025-06-11 16:02:00.618381,False,MGR003
+ALERT_3A48B0D8E4,Emergency,Alert Title 23,This is a random alert message for alert 23.,High,Drivers,2024-06-27 16:02:00.618007,2025-06-17 16:02:00.618384,True,MGR004
+ALERT_99253B0D5E,Weather,Alert Title 24,This is a random alert message for alert 24.,Medium,Public,2024-08-30 16:02:00.618011,2025-07-02 16:02:00.618387,False,MGR005
+ALERT_18819553EA,Weather,Alert Title 25,This is a random alert message for alert 25.,High,Public,2024-09-09 16:02:00.618014,2025-06-13 16:02:00.618391,True,MGR006
+ALERT_160FAF5EA2,Maintenance,Alert Title 26,This is a random alert message for alert 26.,High,Drivers,2024-12-01 16:02:00.618017,2025-06-14 16:02:00.618395,True,MGR007
+ALERT_6EC3DCA85B,Event,Alert Title 27,This is a random alert message for alert 27.,Low,Officials,2024-12-25 16:02:00.618021,2025-06-12 16:02:00.618398,True,MGR001
+ALERT_E57569AB9E,Traffic,Alert Title 28,This is a random alert message for alert 28.,Medium,Drivers,2025-03-29 16:02:00.618024,2025-06-23 16:02:00.618402,False,MGR002
+ALERT_28BF8F4ECD,Traffic,Alert Title 29,This is a random alert message for alert 29.,Medium,Public,2025-02-05 16:02:00.618027,2025-06-16 16:02:00.618405,False,MGR003
+ALERT_F9BBA3E854,Emergency,Alert Title 30,This is a random alert message for alert 30.,Low,Officials,2025-01-25 16:02:00.618031,2025-06-27 16:02:00.618409,True,MGR004
+ALERT_BF2C9C906C,Event,Alert Title 31,This is a random alert message for alert 31.,Low,Officials,2024-06-25 16:02:00.618035,2025-06-12 16:02:00.618412,True,MGR005
+ALERT_0DE4806595,Event,Alert Title 32,This is a random alert message for alert 32.,Medium,Commuters,2025-03-20 16:02:00.618038,2025-06-14 16:02:00.618416,False,MGR006
+ALERT_DF3822923C,Maintenance,Alert Title 33,This is a random alert message for alert 33.,Low,Public,2025-03-11 16:02:00.618042,2025-06-14 16:02:00.618420,True,MGR007
+ALERT_D1D318554E,Weather,Alert Title 34,This is a random alert message for alert 34.,Low,Officials,2024-07-06 16:02:00.618046,2025-06-08 16:02:00.618423,True,MGR001
+ALERT_B9919E13CB,Traffic,Alert Title 35,This is a random alert message for alert 35.,Medium,Commuters,2024-08-06 16:02:00.618049,2025-07-05 16:02:00.618427,False,MGR002
+ALERT_664C465065,Emergency,Alert Title 36,This is a random alert message for alert 36.,Medium,Officials,2024-08-10 16:02:00.618052,2025-06-28 16:02:00.618430,False,MGR003
+ALERT_D13CFB77B5,Event,Alert Title 37,This is a random alert message for alert 37.,High,Drivers,2024-10-24 16:02:00.618055,2025-06-23 16:02:00.618434,True,MGR004
+ALERT_211464D766,Event,Alert Title 38,This is a random alert message for alert 38.,Low,Commuters,2024-10-26 16:02:00.618058,2025-07-04 16:02:00.618438,False,MGR005
+ALERT_36E150BF9C,Traffic,Alert Title 39,This is a random alert message for alert 39.,High,Officials,2025-04-20 16:02:00.618061,2025-06-16 16:02:00.618441,True,MGR006
+ALERT_B2C07B597F,Weather,Alert Title 40,This is a random alert message for alert 40.,Low,Officials,2025-03-07 16:02:00.618065,2025-06-15 16:02:00.618445,False,MGR007
+ALERT_B854F0E358,Emergency,Alert Title 41,This is a random alert message for alert 41.,Medium,Public,2025-01-03 16:02:00.618069,2025-06-16 16:02:00.618448,False,MGR001
+ALERT_A09338CE19,Emergency,Alert Title 42,This is a random alert message for alert 42.,Medium,Public,2025-01-29 16:02:00.618072,2025-06-29 16:02:00.618451,True,MGR002
+ALERT_8EF5EB1E2B,Emergency,Alert Title 43,This is a random alert message for alert 43.,Medium,Public,2025-04-12 16:02:00.618076,2025-06-10 16:02:00.618455,True,MGR003
+ALERT_D648D10AAF,Traffic,Alert Title 44,This is a random alert message for alert 44.,High,Commuters,2024-08-21 16:02:00.618079,2025-06-22 16:02:00.618459,True,MGR004
+ALERT_7D3BA61979,Event,Alert Title 45,This is a random alert message for alert 45.,Low,Commuters,2024-12-23 16:02:00.618082,2025-06-11 16:02:00.618462,True,MGR005
+ALERT_CB7E12B78B,Maintenance,Alert Title 46,This is a random alert message for alert 46.,High,Commuters,2024-11-08 16:02:00.618086,2025-06-25 16:02:00.618466,True,MGR006
+ALERT_0E1A8140F9,Maintenance,Alert Title 47,This is a random alert message for alert 47.,Medium,Public,2025-05-29 16:02:00.618089,2025-06-15 16:02:00.618469,False,MGR007
+ALERT_3E5D9A9A2D,Traffic,Alert Title 48,This is a random alert message for alert 48.,Low,Officials,2024-08-04 16:02:00.618093,2025-07-04 16:02:00.618473,False,MGR001
+ALERT_97B18CB7CE,Traffic,Alert Title 49,This is a random alert message for alert 49.,Low,Commuters,2024-10-10 16:02:00.618096,2025-07-01 16:02:00.618476,False,MGR002
+ALERT_D81F6D0B77,Emergency,Alert Title 50,This is a random alert message for alert 50.,High,Commuters,2024-06-06 16:02:00.618100,2025-07-04 16:02:00.618480,False,MGR003
+ALERT_BF1ACE766C,Emergency,Alert Title 51,This is a random alert message for alert 51.,Low,Commuters,2024-06-24 16:02:00.618104,2025-06-11 16:02:00.618484,True,MGR004
+ALERT_37B99E7552,Event,Alert Title 52,This is a random alert message for alert 52.,Medium,Drivers,2024-11-14 16:02:00.618107,2025-07-01 16:02:00.618488,False,MGR005
+ALERT_38984EC03E,Traffic,Alert Title 53,This is a random alert message for alert 53.,Low,Drivers,2024-11-01 16:02:00.618111,2025-07-04 16:02:00.618492,False,MGR006
+ALERT_E8EDC42DA8,Maintenance,Alert Title 54,This is a random alert message for alert 54.,Low,Officials,2024-07-19 16:02:00.618115,2025-06-23 16:02:00.618496,False,MGR007
+ALERT_5031014BB2,Weather,Alert Title 55,This is a random alert message for alert 55.,Medium,Public,2024-08-09 16:02:00.618118,2025-06-12 16:02:00.618500,False,MGR001
+ALERT_0E1765B15B,Weather,Alert Title 56,This is a random alert message for alert 56.,Low,Drivers,2024-07-05 16:02:00.618121,2025-06-25 16:02:00.618503,False,MGR002
+ALERT_D0F112DB46,Weather,Alert Title 57,This is a random alert message for alert 57.,Medium,Commuters,2025-04-02 16:02:00.618125,2025-06-11 16:02:00.618507,False,MGR003
+ALERT_4B7DB9888F,Maintenance,Alert Title 58,This is a random alert message for alert 58.,Medium,Officials,2024-11-13 16:02:00.618128,2025-07-03 16:02:00.618511,False,MGR004
+ALERT_C9BE229952,Maintenance,Alert Title 59,This is a random alert message for alert 59.,Medium,Commuters,2024-09-28 16:02:00.618132,2025-06-20 16:02:00.618514,False,MGR005
+ALERT_3DBD6E3346,Weather,Alert Title 60,This is a random alert message for alert 60.,Low,Public,2024-08-24 16:02:00.618137,2025-06-18 16:02:00.618518,False,MGR006
+ALERT_FBFCDD778E,Maintenance,Alert Title 61,This is a random alert message for alert 61.,Medium,Officials,2025-05-19 16:02:00.618141,2025-06-09 16:02:00.618521,True,MGR007
+ALERT_597A9530D8,Weather,Alert Title 62,This is a random alert message for alert 62.,Medium,Commuters,2024-10-29 16:02:00.618144,2025-06-11 16:02:00.618525,True,MGR001
+ALERT_8F70723577,Maintenance,Alert Title 63,This is a random alert message for alert 63.,Low,Drivers,2025-02-14 16:02:00.618148,2025-06-14 16:02:00.618528,False,MGR002
+ALERT_A06FBC56BC,Emergency,Alert Title 64,This is a random alert message for alert 64.,Low,Drivers,2025-03-09 16:02:00.618153,2025-06-16 16:02:00.618532,False,MGR003
+ALERT_ABAB811A47,Event,Alert Title 65,This is a random alert message for alert 65.,High,Drivers,2024-09-02 16:02:00.618158,2025-07-01 16:02:00.618537,False,MGR004
+ALERT_A1BA777FE5,Event,Alert Title 66,This is a random alert message for alert 66.,High,Commuters,2025-04-02 16:02:00.618163,2025-06-19 16:02:00.618540,True,MGR005
+ALERT_9DBF7CBC04,Event,Alert Title 67,This is a random alert message for alert 67.,Medium,Commuters,2024-09-13 16:02:00.618166,2025-06-26 16:02:00.618543,False,MGR006
+ALERT_A5AF9B6FF9,Event,Alert Title 68,This is a random alert message for alert 68.,Low,Public,2024-08-11 16:02:00.618170,2025-07-02 16:02:00.618547,False,MGR007
+ALERT_E466F8671B,Event,Alert Title 69,This is a random alert message for alert 69.,Low,Public,2024-10-20 16:02:00.618174,2025-07-04 16:02:00.618550,True,MGR001
+ALERT_E7AAB79F1C,Traffic,Alert Title 70,This is a random alert message for alert 70.,High,Public,2025-04-02 16:02:00.618178,2025-07-03 16:02:00.618554,False,MGR002
+ALERT_9ED5A869B4,Traffic,Alert Title 71,This is a random alert message for alert 71.,Low,Drivers,2024-07-12 16:02:00.618182,2025-07-02 16:02:00.618557,False,MGR003
+ALERT_ECDD095525,Weather,Alert Title 72,This is a random alert message for alert 72.,High,Commuters,2024-12-09 16:02:00.618186,2025-07-02 16:02:00.618561,False,MGR004
+ALERT_888770107E,Maintenance,Alert Title 73,This is a random alert message for alert 73.,High,Commuters,2025-01-21 16:02:00.618190,2025-07-04 16:02:00.618564,True,MGR005
+ALERT_A35DD96FE5,Maintenance,Alert Title 74,This is a random alert message for alert 74.,High,Public,2025-03-12 16:02:00.618194,2025-06-11 16:02:00.618568,False,MGR006
+ALERT_A4634F277D,Maintenance,Alert Title 75,This is a random alert message for alert 75.,Low,Drivers,2024-08-24 16:02:00.618197,2025-06-14 16:02:00.618571,True,MGR007
+ALERT_B8D53D0C47,Traffic,Alert Title 76,This is a random alert message for alert 76.,High,Officials,2025-03-16 16:02:00.618201,2025-06-22 16:02:00.618575,True,MGR001
+ALERT_219EF4F7D0,Traffic,Alert Title 77,This is a random alert message for alert 77.,High,Drivers,2025-02-27 16:02:00.618205,2025-06-27 16:02:00.618578,True,MGR002
+ALERT_0037BE5303,Event,Alert Title 78,This is a random alert message for alert 78.,High,Officials,2025-02-04 16:02:00.618209,2025-06-16 16:02:00.618582,True,MGR003
+ALERT_B123F09ADC,Traffic,Alert Title 79,This is a random alert message for alert 79.,Medium,Commuters,2024-06-13 16:02:00.618213,2025-06-10 16:02:00.618586,True,MGR004
+ALERT_4659DDFB74,Event,Alert Title 80,This is a random alert message for alert 80.,Low,Officials,2024-12-21 16:02:00.618216,2025-07-02 16:02:00.618589,False,MGR005
+ALERT_28F68C2F12,Event,Alert Title 81,This is a random alert message for alert 81.,Medium,Drivers,2025-03-29 16:02:00.618220,2025-06-29 16:02:00.618593,False,MGR006
+ALERT_E407FD7802,Traffic,Alert Title 82,This is a random alert message for alert 82.,Low,Drivers,2025-02-17 16:02:00.618224,2025-07-04 16:02:00.618596,False,MGR007
+ALERT_8D76BBD0C0,Event,Alert Title 83,This is a random alert message for alert 83.,Low,Commuters,2025-01-08 16:02:00.618228,2025-06-26 16:02:00.618600,True,MGR001
+ALERT_37115240DF,Event,Alert Title 84,This is a random alert message for alert 84.,High,Public,2025-03-24 16:02:00.618232,2025-06-14 16:02:00.618603,True,MGR002
+ALERT_027581611C,Traffic,Alert Title 85,This is a random alert message for alert 85.,Medium,Drivers,2024-11-28 16:02:00.618235,2025-06-17 16:02:00.618607,False,MGR003
+ALERT_4151C47E41,Traffic,Alert Title 86,This is a random alert message for alert 86.,Low,Commuters,2024-09-27 16:02:00.618239,2025-06-08 16:02:00.618611,False,MGR004
+ALERT_37D8A16564,Weather,Alert Title 87,This is a random alert message for alert 87.,High,Commuters,2025-04-20 16:02:00.618243,2025-06-11 16:02:00.618614,False,MGR005
+ALERT_D480B3D1D2,Traffic,Alert Title 88,This is a random alert message for alert 88.,Medium,Public,2025-05-20 16:02:00.618247,2025-06-12 16:02:00.618618,False,MGR006
+ALERT_BD37100205,Traffic,Alert Title 89,This is a random alert message for alert 89.,Medium,Officials,2024-11-07 16:02:00.618251,2025-06-10 16:02:00.618622,True,MGR007
+ALERT_A734FC5F0A,Weather,Alert Title 90,This is a random alert message for alert 90.,Low,Officials,2024-12-06 16:02:00.618255,2025-06-12 16:02:00.618625,False,MGR001
+ALERT_E0F5E1CD09,Emergency,Alert Title 91,This is a random alert message for alert 91.,Low,Public,2025-04-03 16:02:00.618258,2025-06-24 16:02:00.618628,False,MGR002
+ALERT_13805F32B4,Traffic,Alert Title 92,This is a random alert message for alert 92.,Low,Commuters,2024-06-26 16:02:00.618262,2025-07-04 16:02:00.618632,False,MGR003
+ALERT_4BBFF4C255,Event,Alert Title 93,This is a random alert message for alert 93.,High,Officials,2024-11-14 16:02:00.618266,2025-06-25 16:02:00.618636,True,MGR004
+ALERT_03AD841818,Traffic,Alert Title 94,This is a random alert message for alert 94.,High,Public,2024-09-12 16:02:00.618270,2025-06-11 16:02:00.618639,True,MGR005
+ALERT_EFBC42F0E4,Traffic,Alert Title 95,This is a random alert message for alert 95.,Low,Public,2025-05-27 16:02:00.618274,2025-06-17 16:02:00.618643,False,MGR006
+ALERT_72B37E574B,Emergency,Alert Title 96,This is a random alert message for alert 96.,Medium,Drivers,2025-02-18 16:02:00.618278,2025-06-19 16:02:00.618647,False,MGR007
+ALERT_D3C541CC5D,Emergency,Alert Title 97,This is a random alert message for alert 97.,High,Public,2025-05-20 16:02:00.618282,2025-06-26 16:02:00.618683,False,MGR001
+ALERT_E04FF5C232,Event,Alert Title 98,This is a random alert message for alert 98.,High,Commuters,2025-01-06 16:02:00.618285,2025-06-23 16:02:00.618690,False,MGR002
+ALERT_B6A1520437,Traffic,Alert Title 99,This is a random alert message for alert 99.,Medium,Public,2024-08-03 16:02:00.618289,2025-06-28 16:02:00.618694,True,MGR003

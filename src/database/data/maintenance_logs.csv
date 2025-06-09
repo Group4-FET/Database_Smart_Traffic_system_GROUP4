@@ -1,0 +1,51 @@
+log_id,camera_id,technician_id,maintenance_type,description,scheduled_at,completed_at,status,cost
+LOG001,CAM001,USR027,Routine Check,Routine inspection of camera,2025-06-06 06:00:00,2025-06-06 07:30:00,Completed,150.0
+LOG002,CAM002,USR099,Lens Cleaning,Cleaning camera lens,2025-06-06 07:15:00,,Scheduled,75.0
+LOG003,CAM003,USR093,Software Update,Updating camera firmware,2025-06-06 08:00:00,2025-06-06 09:00:00,Completed,200.0
+LOG004,CAM004,USR014,Hardware Repair,Repairing camera mount,2025-06-06 06:30:00,,In Progress,300.0
+LOG005,CAM005,USR081,Calibration,Calibrating camera focus,2025-06-06 07:45:00,2025-06-06 08:45:00,Completed,120.0
+LOG006,CAM006,USR093,Routine Check,Checking camera connectivity,2025-06-06 08:15:00,,Scheduled,100.0
+LOG007,CAM007,USR043,Lens Cleaning,Lens cleaning for clarity,2025-06-06 06:45:00,2025-06-06 07:45:00,Completed,80.0
+LOG008,CAM008,USR046,Software Update,Firmware update for CAM008,2025-06-06 09:00:00,,In Progress,180.0
+LOG009,CAM009,USR075,Hardware Repair,Fixing camera power issue,2025-06-06 07:00:00,2025-06-06 08:30:00,Completed,250.0
+LOG010,CAM010,USR017,Calibration,Adjusting camera alignment,2025-06-06 08:30:00,,Scheduled,110.0
+LOG011,CAM011,USR058,Routine Check,Routine camera maintenance,2025-06-06 06:15:00,2025-06-06 07:15:00,Completed,140.0
+LOG012,CAM012,USR087,Lens Cleaning,Cleaning lens of CAM012,2025-06-06 07:30:00,,In Progress,90.0
+LOG013,CAM013,USR076,Software Update,Updating software for CAM013,2025-06-06 08:45:00,2025-06-06 09:45:00,Completed,190.0
+LOG014,CAM014,USR028,Hardware Repair,Repairing camera wiring,2025-06-06 06:50:00,,Scheduled,270.0
+LOG015,CAM015,USR083,Calibration,Calibrating camera angle,2025-06-06 07:20:00,2025-06-06 08:20:00,Completed,130.0
+LOG016,CAM016,USR093,Routine Check,Checking camera functionality,2025-06-06 08:10:00,,In Progress,160.0
+LOG017,CAM017,USR017,Lens Cleaning,Lens cleaning for CAM017,2025-06-06 06:40:00,2025-06-06 07:40:00,Completed,85.0
+LOG018,CAM018,USR088,Software Update,Firmware update for CAM018,2025-06-06 09:15:00,,Scheduled,200.0
+LOG019,CAM019,USR047,Hardware Repair,Fixing camera mount,2025-06-06 07:10:00,2025-06-06 08:40:00,Completed,260.0
+LOG020,CAM020,USR070,Calibration,Adjusting camera focus,2025-06-06 08:25:00,,In Progress,115.0
+LOG021,CAM021,USR009,Routine Check,Routine inspection,2025-06-06 06:20:00,2025-06-06 07:20:00,Completed,145.0
+LOG022,CAM022,USR068,Lens Cleaning,Cleaning camera lens,2025-06-06 07:35:00,,Scheduled,95.0
+LOG023,CAM023,USR014,Software Update,Updating CAM023 firmware,2025-06-06 08:50:00,2025-06-06 09:50:00,Completed,195.0
+LOG024,CAM024,USR023,Hardware Repair,Repairing camera power,2025-06-06 06:55:00,,In Progress,280.0
+LOG025,CAM025,USR088,Calibration,Calibrating camera,2025-06-06 07:25:00,2025-06-06 08:25:00,Completed,125.0
+LOG026,CAM026,USR053,Routine Check,Checking connectivity,2025-06-06 08:05:00,,Scheduled,155.0
+LOG027,CAM027,USR093,Lens Cleaning,Lens cleaning for CAM027,2025-06-06 06:35:00,2025-06-06 07:35:00,Completed,90.0
+LOG028,CAM028,USR058,Software Update,Firmware update for CAM028,2025-06-06 09:10:00,,In Progress,205.0
+LOG029,CAM029,USR022,Hardware Repair,Fixing camera wiring,2025-06-06 07:05:00,2025-06-06 08:35:00,Completed,265.0
+LOG030,CAM030,USR095,Calibration,Adjusting camera angle,2025-06-06 08:20:00,,Scheduled,110.0
+LOG031,CAM031,USR082,Routine Check,Routine camera check,2025-06-06 06:25:00,2025-06-06 07:25:00,Completed,140.0
+LOG032,CAM032,USR077,Lens Cleaning,Cleaning lens of CAM032,2025-06-06 07:40:00,,In Progress,100.0
+LOG033,CAM033,USR028,Software Update,Updating CAM033 software,2025-06-06 08:55:00,2025-06-06 09:55:00,Completed,190.0
+LOG034,CAM034,USR063,Hardware Repair,Repairing camera mount,2025-06-06 07:00:00,,Scheduled,270.0
+LOG035,CAM035,USR002,Calibration,Calibrating camera focus,2025-06-06 07:30:00,2025-06-06 08:30:00,Completed,130.0
+LOG036,CAM036,USR026,Routine Check,Checking camera status,2025-06-06 08:10:00,,In Progress,160.0
+LOG037,CAM037,USR074,Lens Cleaning,Lens cleaning for CAM037,2025-06-06 06:45:00,2025-06-06 07:45:00,Completed,85.0
+LOG038,CAM038,USR085,Software Update,Firmware update for CAM038,2025-06-06 09:15:00,,Scheduled,200.0
+LOG039,CAM039,USR025,Hardware Repair,Fixing camera power,2025-06-06 07:10:00,2025-06-06 08:40:00,Completed,260.0
+LOG040,CAM040,USR071,Calibration,Adjusting camera focus,2025-06-06 08:25:00,,In Progress,115.0
+LOG041,CAM041,USR044,Routine Check,Routine inspection,2025-06-06 06:20:00,2025-06-06 07:20:00,Completed,145.0
+LOG042,CAM042,USR067,Lens Cleaning,Cleaning camera lens,2025-06-06 07:35:00,,Scheduled,95.0
+LOG043,CAM043,USR014,Software Update,Updating CAM043 firmware,2025-06-06 08:50:00,2025-06-06 09:50:00,Completed,195.0
+LOG044,CAM044,USR055,Hardware Repair,Repairing camera wiring,2025-06-06 06:55:00,,In Progress,280.0
+LOG045,CAM045,USR083,Calibration,Calibrating camera,2025-06-06 07:25:00,2025-06-06 08:25:00,Completed,125.0
+LOG046,CAM046,USR046,Routine Check,Checking connectivity,2025-06-06 08:05:00,,Scheduled,155.0
+LOG047,CAM047,USR042,Lens Cleaning,Lens cleaning for CAM047,2025-06-06 06:35:00,2025-06-06 07:35:00,Completed,90.0
+LOG048,CAM048,USR017,Software Update,Firmware update for CAM048,2025-06-06 09:10:00,,In Progress,205.0
+LOG049,CAM049,USR089,Hardware Repair,Fixing camera mount,2025-06-06 07:05:00,2025-06-06 08:35:00,Completed,265.0
+LOG050,CAM050,USR026,Calibration,Adjusting camera angle,2025-06-06 08:20:00,,Scheduled,110.0

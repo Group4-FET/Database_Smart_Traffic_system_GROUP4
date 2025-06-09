@@ -1,0 +1,33 @@
+report_id,generated_by,report_type,title,data_summary,generated_at,period_start,period_end,file_path
+REP001,MGR001,Daily Traffic,Morning Rush Hour Analysis,Analysis of traffic patterns during morning rush hour,2025-06-06 10:00:00,2025-06-06 06:00:00,2025-06-06 09:00:00,/reports/daily/2025/06/06/morning_rush.pdf
+REP002,MGR002,Incident,June 6 Incident Summary,Summary of all traffic incidents reported today,2025-06-06 12:00:00,2025-06-06 00:00:00,2025-06-06 12:00:00,/reports/incidents/2025/06/06/summary.pdf
+REP003,MGR003,Camera,Camera Performance Report,Status and performance metrics for all cameras,2025-06-06 09:00:00,2025-06-05 00:00:00,2025-06-06 00:00:00,/reports/camera/2025/06/06/performance.pdf
+REP004,MGR004,Route,Buea-Molyko Route Analysis,Detailed analysis of traffic on Buea-Molyko route,2025-06-06 11:00:00,2025-06-01 00:00:00,2025-06-06 00:00:00,/reports/routes/RT001/weekly.pdf
+REP005,MGR005,Weather,Weather Impact Report,Impact of weather conditions on traffic flow,2025-06-06 10:30:00,2025-06-06 00:00:00,2025-06-06 10:00:00,/reports/weather/2025/06/06/impact.pdf
+REP006,MGR006,Vehicle,Public Transport Efficiency,Analysis of public transport vehicle performance,2025-06-06 14:00:00,2025-06-01 00:00:00,2025-06-06 00:00:00,/reports/vehicles/weekly_efficiency.pdf
+REP007,MGR007,Alert,Alert Effectiveness Report,Analysis of alert delivery and response rates,2025-06-06 13:00:00,2025-05-30 00:00:00,2025-06-06 00:00:00,/reports/alerts/weekly_effectiveness.pdf
+REP008,MGR008,Maintenance,Camera Maintenance History,Summary of all camera maintenance activities,2025-06-06 09:30:00,2025-05-01 00:00:00,2025-06-06 00:00:00,/reports/maintenance/monthly_summary.pdf
+REP009,MGR009,Congestion,Citywide Congestion Hotspots,Identification of recurring congestion hotspots,2025-06-06 15:00:00,2025-06-01 00:00:00,2025-06-06 00:00:00,/reports/congestion/weekly_hotspots.pdf
+REP010,MGR010,User,Commuter Behavior Analysis,Analysis of commuter preferences and patterns,2025-06-06 16:00:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/users/monthly_behavior.pdf
+REP011,MGR011,Daily Traffic,Afternoon Traffic Forecast,Predicted traffic conditions for afternoon commute,2025-06-06 12:30:00,2025-06-06 00:00:00,2025-06-06 12:00:00,/reports/daily/2025/06/06/afternoon_forecast.pdf
+REP012,MGR012,Incident,Accident Trends Report,Analysis of accident trends over past month,2025-06-06 11:30:00,2025-05-06 00:00:00,2025-06-06 00:00:00,/reports/incidents/monthly_trends.pdf
+REP013,MGR013,Camera,PTZ Camera Utilization,Usage patterns of PTZ cameras across network,2025-06-06 10:15:00,2025-05-30 00:00:00,2025-06-06 00:00:00,/reports/camera/weekly_ptz_usage.pdf
+REP014,MGR014,Route,Douala-Akwa Corridor Study,Comprehensive study of Douala-Akwa traffic corridor,2025-06-06 14:30:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/routes/RT002/monthly_study.pdf
+REP015,MGR015,Weather,Historical Weather Impact,Long-term analysis of weather impact on traffic,2025-06-06 09:45:00,2025-01-01 00:00:00,2025-06-01 00:00:00,/reports/weather/historical_impact.pdf
+REP016,MGR016,Vehicle,Operator Performance,Performance metrics for transport operators,2025-06-06 13:30:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/operators/monthly_performance.pdf
+REP017,MGR017,Alert,Emergency Response Times,Analysis of response times to critical alerts,2025-06-06 15:30:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/alerts/response_times.pdf
+REP018,MGR018,Maintenance,Preventive Maintenance Plan,Schedule for upcoming preventive maintenance,2025-06-06 08:30:00,2025-06-06 00:00:00,2025-07-06 00:00:00,/reports/maintenance/upcoming_schedule.pdf
+REP019,MGR019,Congestion,Weekend Traffic Patterns,Analysis of weekend vs weekday traffic patterns,2025-06-06 16:30:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/congestion/weekend_patterns.pdf
+REP020,MGR020,User,Notification Preference Trends,Changes in user notification preferences over time,2025-06-06 11:15:00,2025-01-01 00:00:00,2025-06-01 00:00:00,/reports/users/preference_trends.pdf
+REP021,MGR001,Daily Traffic,Evening Commute Analysis,Analysis of evening rush hour traffic patterns,2025-06-06 19:00:00,2025-06-06 16:00:00,2025-06-06 19:00:00,/reports/daily/2025/06/06/evening_rush.pdf
+REP022,MGR002,Incident,Severity Level Distribution,Breakdown of incidents by severity level,2025-06-06 10:45:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/incidents/severity_distribution.pdf
+REP023,MGR003,Camera,Image Quality Metrics,Analysis of image quality across camera network,2025-06-06 09:15:00,2025-05-30 00:00:00,2025-06-06 00:00:00,/reports/camera/image_quality.pdf
+REP024,MGR004,Route,Yaounde Central Analysis,Traffic flow analysis in central Yaounde,2025-06-06 13:15:00,2025-06-01 00:00:00,2025-06-06 00:00:00,/reports/routes/RT003/weekly_analysis.pdf
+REP025,MGR005,Weather,Seasonal Impact Forecast,Predicted seasonal weather impacts on traffic,2025-06-06 08:45:00,2025-06-06 00:00:00,2025-09-06 00:00:00,/reports/weather/seasonal_forecast.pdf
+REP026,MGR006,Vehicle,Fuel Efficiency Report,Analysis of vehicle fuel efficiency metrics,2025-06-06 14:45:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/vehicles/fuel_efficiency.pdf
+REP027,MGR007,Alert,Geographic Alert Distribution,Distribution of alerts by geographic location,2025-06-06 11:45:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/alerts/geographic_distribution.pdf
+REP028,MGR008,Maintenance,Downtime Analysis,Analysis of camera downtime and causes,2025-06-06 10:00:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/maintenance/downtime_analysis.pdf
+REP029,MGR009,Congestion,Peak Hour Identification,Identification of peak congestion periods,2025-06-06 15:15:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/congestion/peak_hours.pdf
+REP030,MGR010,User,App Usage Statistics,Analysis of mobile app usage patterns,2025-06-06 12:15:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/users/app_usage.pdf
+REP031,MGR011,Daily Traffic,Overnight Traffic Report,Analysis of overnight traffic patterns,2025-06-06 06:00:00,2025-06-05 22:00:00,2025-06-06 06:00:00,/reports/daily/2025/06/06/overnight.pdf
+REP032,MGR012,Incident,Response Time Analysis,Analysis of incident response times,2025-06-06 13:45:00,2025-05-01 00:00:00,2025-06-01 00:00:00,/reports/incidents/response_time.pdf
