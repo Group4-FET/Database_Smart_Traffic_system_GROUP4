@@ -216,4 +216,5 @@ Deploy to a cloud provider with automated backups.
 License
 This project is licensed under the MIT License.
 Contact
-For issues or questions, contact the project maintainer at [your_email@example.com].
+For issues or questions, contact the project maintainer at [tiddingramsey@gmail].
+#GROUP4 Database Project
