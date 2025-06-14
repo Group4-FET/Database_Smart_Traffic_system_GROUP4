@@ -162,6 +162,38 @@ psql -U postgres -d traffic_management -c "CREATE INDEX idx_user_alerts_user_id 
 
 Screenshot: docs/screenshots/index_creation.png
 
+9. segmentation
+ 
+
+## 🐳 Docker-Based City Segmentation
+ 
+
+* `buea-db` (Port: 5433)
+* `douala-db` (Port: 5434)
+* `yaounde-db` (Port: 5435)
+
+Each city has its own `.env` file:
+
+* `.env.buea` → connects to Buea database
+* `.env.douala` → connects to Douala database
+* `.env.yaounde` → connects to Yaoundé database
+
+You can switch between cities by running:
+
+```bash
+source .env.buea       # for Buea
+python src/database/data/import_csv.py
+```
+
+To start all databases using Docker:
+
+```bash
+docker compose up -d
+```
+
+This makes the system modular and allows separate management of each city’s data.
+
+
 CSV File Format
 
 Each CSV must match its table schema (e.g., users.csv needs user_id,username,email,...).

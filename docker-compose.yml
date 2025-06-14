@@ -1,0 +1,40 @@
+version: "3.8"
+
+services:
+  buea-db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: buea_db
+      POSTGRES_USER: buea_user
+      POSTGRES_PASSWORD: AssuranceBuea
+    ports:
+      - "5433:5432"
+    volumes:
+      - buea_data:/var/lib/postgresql/data
+
+  douala-db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: douala_db
+      POSTGRES_USER: douala_user
+      POSTGRES_PASSWORD: AssuranceDouala
+    ports:
+      - "5434:5432"
+    volumes:
+      - douala_data:/var/lib/postgresql/data
+
+  yaounde-db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: yaounde_db
+      POSTGRES_USER: yaounde_user
+      POSTGRES_PASSWORD: AssuranceYaounde
+    ports:
+      - "5435:5432"
+    volumes:
+      - yaounde_data:/var/lib/postgresql/data
+
+volumes:
+  buea_data:
+  douala_data:
+  yaounde_data:

@@ -1,5 +1,6 @@
 venv/ logs/ database/backups/ *.pyc pycache/ *.dump *.log
 .env
+.env.*
 __pycache__/
 *.pyc
 logs/
